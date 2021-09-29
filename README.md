@@ -4,7 +4,7 @@
 This project work was created as an assignment for the course: Interdisciplinary Project in Data Science (194.047) 2021S @ TU Wien
 [Link to TISS Lecture](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?dswid=1672&dsrid=629&semester=2021W&courseNr=194047)
 
-![image info](./urban.png)
+![image source: https://www.mdpi.com/2072-4292/8/7/606/htm](./urban.png)
 
 ## Abstract
 The main goal of this research project is to implement and evaluate an effective method to detect and classify urban areas, land covered by buildings, and other man-made structures on synthetic-aperture radar imagery. The best performing solution is a neural network-based model with U-net architecture, which is able to do binary image segmentation on the image tiles. As a result of the research, I deliver a model implementation that successfully identifies urban areas on the provided satellite images.
