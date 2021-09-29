@@ -29,3 +29,6 @@ The data, used by the model is pre-processed by the `preprocess.ipynb` script an
 
 ### Authors
 [Peter Bognar](https://github.com/bognarpeter)  
+
+
+*image source: https://www.mdpi.com/2072-4292/8/7/606/htm*
